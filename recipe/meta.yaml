@@ -30,7 +30,7 @@ test:
     - properties
 
 about:
-  home: http://github.com/aranzgeo/properties
+  home: http://github.com/seequent/properties
   license: MIT
   license_family: MIT
   license_file: LICENSE
@@ -42,7 +42,7 @@ about:
     production code. It emphasizes usability and reproducibility for
     developers and users at every stage of the code life cycle.
   doc_url: http://propertiespy.readthedocs.io/
-  dev_url: https://github.com/aranzgeo/properties
+  dev_url: https://github.com/seequent/properties
 
 extra:
   recipe-maintainers:
