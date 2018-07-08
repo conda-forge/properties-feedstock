@@ -18,14 +18,15 @@ developers and users at every stage of the code life cycle.
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/properties-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/properties-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/properties-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/properties-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/properties-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/properties-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/properties-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/properties-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/properties/badges/version.svg)](https://anaconda.org/conda-forge/properties)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/properties/badges/downloads.svg)](https://anaconda.org/conda-forge/properties)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-properties-green.svg)](https://anaconda.org/conda-forge/properties) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/properties.svg)](https://anaconda.org/conda-forge/properties) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/properties.svg)](https://anaconda.org/conda-forge/properties) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/properties.svg)](https://anaconda.org/conda-forge/properties) |
 
 Installing properties
 =====================
