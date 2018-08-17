@@ -1,6 +1,6 @@
 {% set name = "properties" %}
-{% set version = "0.4.0" %}
-{% set sha256 = "896098b884fc219816b8c91c1ab2c93e5f43773537eab65ab5636cc343428c0d" %}
+{% set version = "0.5.3" %}
+{% set sha256 = "2b92773313ff681833eecd7e1d62799d23ba27da33c842f953acaf3fc422be3b" %}
 
 package:
   name: {{ name|lower }}
@@ -13,7 +13,7 @@ source:
 
 build:
   noarch: python
-  number: 1
+  number: 0
   script: python -m pip install --no-deps --ignore-installed .
 
 requirements:
