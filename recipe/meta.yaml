@@ -1,6 +1,6 @@
 {% set name = "properties" %}
-{% set version = "0.6.0" %}
-{% set sha256 = "a28649f07154eb3819030e7e75b888321bec6418fc96de0f0bdbc72e5814baab" %}
+{% set version = "0.6.1" %}
+{% set sha256 = "b119ce4c53f4717fa29371c1bb929f422dda7ed90a4559b3583ea77389177263" %}
 
 package:
   name: {{ name|lower }}
